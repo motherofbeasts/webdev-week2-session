@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+
+h1 {
+    color: hotpink;
+}
+header{
+    height: 300px;
+    background-color: peachpuff;
+}
